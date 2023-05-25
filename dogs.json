@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "guid": "65e6bbf5-c366-417f-81e5-db83e095bba7",
+    "name": "Zeus",
+    "bio": "Hi there, I\u0027m poodle!",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "guid": "2112f3b1-bfdf-4553-be5a-61d7acb38ee0",
+    "name": "Bark",
+    "bio": "Bark Bark!",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "guid": "c048674e-e42d-4fe5-861d-6b59ed3dfbeb",
+    "name": "Betty",
+    "bio": "I\u0027m hungry",
+    "image": ""
+  },
+  {
+    "id": 13,
+    "guid": "83a50530-b64a-4cca-8b98-89b038766dcb",
+    "name": "Focus",
+    "bio": "Hi there, I\u0027m poodle!",
+    "image": ""
+  }
+]
